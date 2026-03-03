@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Family/Avrader.md",
+                "file": "Lore/Friends/High Warden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Avrader"
+              "title": "High Warden"
             }
           }
         ]
@@ -180,11 +180,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "72de68248acd2187",
+  "active": "279b62058aec4eb5",
   "lastOpenFiles": [
+    "Npcs/Untitled.md",
+    "Lore/Friends/High Warden.md",
+    "Lore/Friends/Richard.md",
+    "Lore/Family/Avrader.md",
     "Untitled",
     "Lore/Family/Ildria.md",
-    "Lore/Family/Avrader.md",
     "Lore/Family/Ronan.md",
     "Gods/Pavor.md",
     "Gods/Heliod.md",
